@@ -1,2 +1,4 @@
 # SocialNetwork_final_project
-SocialNetwork_final_project_edge>15
+#### This is degree>15 networe
+detail & degree>30:
+https://github.com/Minimindy/social-network-final-project/tree/main
